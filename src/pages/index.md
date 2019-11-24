@@ -2,7 +2,7 @@
 templateKey: index-page
 title: React Sydney Meetup
 image: /img/main-image.jpg
-heading: Required heading
+heading: Required heading test
 subheading: This is awesome!
 mainpitch:
   title: Why Kaldi
