@@ -15,12 +15,18 @@ description: Previous meetups
 intro:
   blurbs:
     - image: /img/coffee.png
+      tags:
+        - Design
+        - Dev
+        - UX
       text: >-
         React is taking the web development world by storm! Thanks to Facebook's
         excellent engineering team, and the countless public contributors
         helping not only with react core, but the entire react community, we can
         all help push component based frontends forward.
     - image: /img/ejdujkju8aa3euf.jpeg
+      tags:
+        - Design
       text: >-
         React is taking the web development world by storm! Thanks to Facebook's
         excellent engineering team, and the countless public contributors
